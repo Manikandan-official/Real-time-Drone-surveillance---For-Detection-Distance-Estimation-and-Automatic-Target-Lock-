@@ -75,16 +75,6 @@ The framework is designed to operate on drone feeds, surveillance videos, and re
 
 # 📸 Experimental Results
 
-## Military Target Detection
-
-<p align="center">
-<img src="army_prediction.jpg" width="750">
-</p>
-
-<p align="center">
-<b>Military Target Detection using Deformable DETR</b>
-</p>
-
 ---
 
 ## Target Localization
